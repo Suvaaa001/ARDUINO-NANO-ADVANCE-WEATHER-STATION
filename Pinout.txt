@@ -1,0 +1,17 @@
+🔌 Arduino Nano Pinout for Weather Station:
+
+1️⃣ SH1106 OLED Display (I2C):
+   - VCC  ->  5V
+   - GND  ->  GND
+   - SCL  ->  A5
+   - SDA  ->  A4
+
+2️⃣ DHT11 Temperature & Humidity Sensor:
+   - VCC  ->  5V
+   - GND  ->  GND
+   - DATA ->  D2
+
+3️⃣ MQ135 Air Quality Sensor:
+   - VCC  ->  5V
+   - GND  ->  GND
+   - AOUT ->  A0
